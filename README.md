@@ -1,20 +1,10 @@
-\# Embedded C State Machine Project
+\## State Machine Project
 
-
-
-\## Overview
-
-This project demonstrates a simple embedded-style state machine
-
+This project demonstrates a simple embedded state machine
 implemented in C using modular design principles.
 
-
-
 The goal is to showcase clean structure, state-based logic,
-
 and separation between interface and implementation.
-
-
 
 \## Architecture
 
@@ -24,19 +14,14 @@ and separation between interface and implementation.
 
 \- system.c: State machine implementation
 
-
-
 \## State Flow
 
 INIT → IDLE → ACTIVE → ERROR
 
-
-
 \## Notes
 
-This project is implemented in standard C and simulates
+This project is implemented in standard C
 
-embedded system behaviour without hardware dependencies.
 
 
 
